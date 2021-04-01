@@ -6,7 +6,7 @@
 
 <h3 align="center">Status GitHub</h3>
 <p align="center">
-    <img src="">
+    <img src="https://github-readme-stats.vercel.app/api?username=jefftermayron&show_icons=true&theme=radical">
 </p>
 
 <h3 align="center">Tecnologias</h3>
