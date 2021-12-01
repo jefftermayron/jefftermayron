@@ -17,6 +17,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="30" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 <!--
