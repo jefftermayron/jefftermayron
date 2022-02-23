@@ -1,5 +1,6 @@
 <h1 align="center">Opa 👋, eu sou Jeffter.</h1>
-<p align="center">Sou um estudante de uma escola técnica e estou estudando desenvolvimento de Sistemas 🌐  💻</p>
+<p align="center">Sou um estudante de Engenharia de Software 🌐  💻</p>
+<p align="center">e Técnico de Desenvolvimento de Sistemas 🌐  💻</p>
 
 - 📚 Sou técnico de Desenvolvimento de Sistemas.
 - 💻 Graduando Engenharia de Software
