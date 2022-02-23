@@ -1,7 +1,9 @@
 <h1 align="center">Opa 👋, eu sou Jeffter.</h1>
 <p align="center">Sou um estudante de uma escola técnica e estou estudando desenvolvimento de Sistemas 🌐  💻</p>
 
-- 📚 Estou estudando em uma escola técnica.
+- 📚 Sou técnico de Desenvolvimento de Sistemas.
+- 💻 Graduando Engenharia de Software
+- 
 - 📧 Entre em contato comigo por email *jefftermayron@gmail.com*.
 
 <h3 align="center">Status GitHub</h3>
